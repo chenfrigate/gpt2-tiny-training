@@ -1,0 +1,14 @@
+{"time":"2025-02-26T09:29:09.455992554Z","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/content/gpt2-tiny-training/wandb/offline-run-20250226_092908-y4cvtzka/logs/debug-core.log"}
+{"time":"2025-02-26T09:29:09.559806289Z","level":"INFO","msg":"created new stream","id":"y4cvtzka"}
+{"time":"2025-02-26T09:29:09.559855683Z","level":"INFO","msg":"stream: started","id":"y4cvtzka"}
+{"time":"2025-02-26T09:29:09.559861293Z","level":"INFO","msg":"handler: started","stream_id":"y4cvtzka"}
+{"time":"2025-02-26T09:29:09.559990358Z","level":"INFO","msg":"sender: started","stream_id":"y4cvtzka"}
+{"time":"2025-02-26T09:29:09.56002813Z","level":"INFO","msg":"writer: Do: started","stream_id":"y4cvtzka"}
+{"time":"2025-02-26T09:29:09.563909654Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-26T09:29:11.791368817Z","level":"INFO","msg":"stream: closing","id":"y4cvtzka"}
+{"time":"2025-02-26T09:29:11.791671361Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-26T09:29:11.792322203Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-26T09:29:11.794561468Z","level":"INFO","msg":"handler: closed","stream_id":"y4cvtzka"}
+{"time":"2025-02-26T09:29:11.794600966Z","level":"INFO","msg":"writer: Close: closed","stream_id":"y4cvtzka"}
+{"time":"2025-02-26T09:29:11.794685939Z","level":"INFO","msg":"sender: closed","stream_id":"y4cvtzka"}
+{"time":"2025-02-26T09:29:11.794700119Z","level":"INFO","msg":"stream: closed","id":"y4cvtzka"}

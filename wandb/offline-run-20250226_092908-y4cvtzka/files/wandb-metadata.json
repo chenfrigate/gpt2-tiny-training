@@ -1,0 +1,41 @@
+{
+  "os":  "Linux-6.1.85+-x86_64-with-glibc2.35",
+  "python":  "CPython 3.11.11",
+  "startedAt":  "2025-02-26T09:29:09.424619Z",
+  "program":  "/content/gpt2-tiny-training/scripts/train.py",
+  "codePath":  "scripts/train.py",
+  "git":  {
+    "remote":  "https://github.com/chenfrigate/gpt2-tiny-training.git",
+    "commit":  "eff13f8c883bd9783f0716948cce241d0181ab1c"
+  },
+  "root":  "/content/gpt2-tiny-training",
+  "host":  "7e35dc267292",
+  "executable":  "/usr/bin/python3",
+  "codePathLocal":  "scripts/train.py",
+  "cpu_count":  1,
+  "cpu_count_logical":  2,
+  "gpu":  "Tesla T4",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "120942624768",
+      "used":  "46291337216"
+    }
+  },
+  "memory":  {
+    "total":  "13609431040"
+  },
+  "cpu":  {
+    "count":  1,
+    "countLogical":  2
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "Tesla T4",
+      "memoryTotal":  "16106127360",
+      "cudaCores":  2560,
+      "architecture":  "Turing"
+    }
+  ],
+  "cudaVersion":  "12.4"
+}
