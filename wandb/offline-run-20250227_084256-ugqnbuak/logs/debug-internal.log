@@ -1,0 +1,14 @@
+{"time":"2025-02-27T08:42:56.261330489Z","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/content/gpt2-tiny-training/wandb/offline-run-20250227_084256-ugqnbuak/logs/debug-core.log"}
+{"time":"2025-02-27T08:42:56.371681235Z","level":"INFO","msg":"created new stream","id":"ugqnbuak"}
+{"time":"2025-02-27T08:42:56.371717471Z","level":"INFO","msg":"stream: started","id":"ugqnbuak"}
+{"time":"2025-02-27T08:42:56.37202952Z","level":"INFO","msg":"handler: started","stream_id":"ugqnbuak"}
+{"time":"2025-02-27T08:42:56.372075014Z","level":"INFO","msg":"writer: Do: started","stream_id":"ugqnbuak"}
+{"time":"2025-02-27T08:42:56.372319779Z","level":"INFO","msg":"sender: started","stream_id":"ugqnbuak"}
+{"time":"2025-02-27T08:42:56.376698265Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-27T09:02:56.153989336Z","level":"INFO","msg":"stream: closing","id":"ugqnbuak"}
+{"time":"2025-02-27T09:02:56.154746051Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-27T09:02:56.155647643Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-27T09:02:56.155763116Z","level":"INFO","msg":"handler: closed","stream_id":"ugqnbuak"}
+{"time":"2025-02-27T09:02:56.155777458Z","level":"INFO","msg":"writer: Close: closed","stream_id":"ugqnbuak"}
+{"time":"2025-02-27T09:02:56.155800626Z","level":"INFO","msg":"sender: closed","stream_id":"ugqnbuak"}
+{"time":"2025-02-27T09:02:56.156148813Z","level":"INFO","msg":"stream: closed","id":"ugqnbuak"}

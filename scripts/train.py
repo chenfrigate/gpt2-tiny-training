@@ -48,13 +48,14 @@ training_args = TrainingArguments(
     num_train_epochs=3,  # 🚀 训练 3 轮
     save_steps=1000,  # ✅ 增加 checkpoint 频率，防止训练丢失
     logging_steps=500,
-    evaluation_strategy="steps",  # 🚀 让 Trainer 定期评估
-    eval_steps=1000,  # 🚀 每 1000 步评估一次
+    evaluation_strategy="no",  # ✅ 关闭自动评估
+    eval_steps=None,  # ✅ 避免 Trainer 误调用 eval
     learning_rate=2e-4,
     weight_decay=0.01,
     fp16=True,  # 🚀 启用混合精度，减少显存占用
     save_total_limit=2,  # ✅ 只保留最近 2 个 checkpoint，防止占用磁盘
-    load_best_model_at_end=True,  # 🚀 训练结束时自动加载最优模型
+    save_strategy="steps",  # ✅ 仍然按 `steps` 方式保存 checkpoint
+    load_best_model_at_end=False,  # ✅ 关闭最优模型加载
 )
 
 # ✅ 8. 检查是否有 `checkpoint` 进行恢复训练
