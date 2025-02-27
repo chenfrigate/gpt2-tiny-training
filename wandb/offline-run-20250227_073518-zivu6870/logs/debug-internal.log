@@ -1,0 +1,14 @@
+{"time":"2025-02-27T07:35:18.958765282Z","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/content/gpt2-tiny-training/wandb/offline-run-20250227_073518-zivu6870/logs/debug-core.log"}
+{"time":"2025-02-27T07:35:19.061585367Z","level":"INFO","msg":"created new stream","id":"zivu6870"}
+{"time":"2025-02-27T07:35:19.061624084Z","level":"INFO","msg":"stream: started","id":"zivu6870"}
+{"time":"2025-02-27T07:35:19.061657772Z","level":"INFO","msg":"writer: Do: started","stream_id":"zivu6870"}
+{"time":"2025-02-27T07:35:19.061851342Z","level":"INFO","msg":"handler: started","stream_id":"zivu6870"}
+{"time":"2025-02-27T07:35:19.061889011Z","level":"INFO","msg":"sender: started","stream_id":"zivu6870"}
+{"time":"2025-02-27T07:35:19.066573236Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-27T07:36:09.31341159Z","level":"INFO","msg":"stream: closing","id":"zivu6870"}
+{"time":"2025-02-27T07:36:09.313460523Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-27T07:36:09.314342794Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-27T07:36:09.314429357Z","level":"INFO","msg":"handler: closed","stream_id":"zivu6870"}
+{"time":"2025-02-27T07:36:09.314446794Z","level":"INFO","msg":"writer: Close: closed","stream_id":"zivu6870"}
+{"time":"2025-02-27T07:36:09.314467116Z","level":"INFO","msg":"sender: closed","stream_id":"zivu6870"}
+{"time":"2025-02-27T07:36:09.315316679Z","level":"INFO","msg":"stream: closed","id":"zivu6870"}

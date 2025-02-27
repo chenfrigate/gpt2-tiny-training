@@ -1,0 +1,14 @@
+{"time":"2025-02-27T07:40:23.282413714Z","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/content/gpt2-tiny-training/wandb/offline-run-20250227_074023-aoksdj41/logs/debug-core.log"}
+{"time":"2025-02-27T07:40:23.385420382Z","level":"INFO","msg":"created new stream","id":"aoksdj41"}
+{"time":"2025-02-27T07:40:23.385465995Z","level":"INFO","msg":"stream: started","id":"aoksdj41"}
+{"time":"2025-02-27T07:40:23.385509113Z","level":"INFO","msg":"writer: Do: started","stream_id":"aoksdj41"}
+{"time":"2025-02-27T07:40:23.385695467Z","level":"INFO","msg":"handler: started","stream_id":"aoksdj41"}
+{"time":"2025-02-27T07:40:23.385752146Z","level":"INFO","msg":"sender: started","stream_id":"aoksdj41"}
+{"time":"2025-02-27T07:40:23.38990429Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-27T08:07:19.981614382Z","level":"INFO","msg":"stream: closing","id":"aoksdj41"}
+{"time":"2025-02-27T08:07:19.981724755Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-27T08:07:19.983359147Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-27T08:07:19.98344226Z","level":"INFO","msg":"handler: closed","stream_id":"aoksdj41"}
+{"time":"2025-02-27T08:07:19.983455845Z","level":"INFO","msg":"writer: Close: closed","stream_id":"aoksdj41"}
+{"time":"2025-02-27T08:07:19.98349209Z","level":"INFO","msg":"sender: closed","stream_id":"aoksdj41"}
+{"time":"2025-02-27T08:07:19.984026374Z","level":"INFO","msg":"stream: closed","id":"aoksdj41"}
