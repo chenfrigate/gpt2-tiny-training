@@ -1,0 +1,14 @@
+{"time":"2025-02-27T06:11:29.549932402Z","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/content/gpt2-tiny-training/wandb/offline-run-20250227_061129-vo5rele9/logs/debug-core.log"}
+{"time":"2025-02-27T06:11:29.653674194Z","level":"INFO","msg":"created new stream","id":"vo5rele9"}
+{"time":"2025-02-27T06:11:29.653709439Z","level":"INFO","msg":"stream: started","id":"vo5rele9"}
+{"time":"2025-02-27T06:11:29.653747852Z","level":"INFO","msg":"writer: Do: started","stream_id":"vo5rele9"}
+{"time":"2025-02-27T06:11:29.653876812Z","level":"INFO","msg":"handler: started","stream_id":"vo5rele9"}
+{"time":"2025-02-27T06:11:29.65391783Z","level":"INFO","msg":"sender: started","stream_id":"vo5rele9"}
+{"time":"2025-02-27T06:11:29.657718805Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-27T06:17:12.523440236Z","level":"INFO","msg":"stream: closing","id":"vo5rele9"}
+{"time":"2025-02-27T06:17:12.523584168Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-27T06:17:12.52482405Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-27T06:17:12.524898387Z","level":"INFO","msg":"handler: closed","stream_id":"vo5rele9"}
+{"time":"2025-02-27T06:17:12.524912272Z","level":"INFO","msg":"writer: Close: closed","stream_id":"vo5rele9"}
+{"time":"2025-02-27T06:17:12.524931753Z","level":"INFO","msg":"sender: closed","stream_id":"vo5rele9"}
+{"time":"2025-02-27T06:17:12.525124509Z","level":"INFO","msg":"stream: closed","id":"vo5rele9"}
